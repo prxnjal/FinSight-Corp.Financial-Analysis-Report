@@ -5,7 +5,6 @@ This repository features an interactive financial analysis dashboard built using
 The goal of this project is to demonstrate my skills in data cleaning, transformation, data modeling, DAX (Data Analysis Expressions), visualization, and dashboard storytelling using Power BI.
 
 📊 Dashboard Highlights
-
 Key components of the dashboard include:
 
 ✅ Sales, Orders, Profits and Discounts YoY Comparison
@@ -24,29 +23,48 @@ Key components of the dashboard include:
 
 🎨 Conditional Formatting for Key Metrics
 
+
 🛠️ Tools and Features Used
 This dashboard was created using the following Power BI Desktop tools and features:
 
+
 Power Query Editor for:
+
 Data Cleaning and Transformation
+
 Removing unnecessary columns
+
 Formatting and renaming fields
 
+
 Data Modeling:
+
 Created a new table for Segment and Product classification
+
 Established relationships between fact and dimension tables
 
+
 DAX Measures:
+
 Custom measures like Total Sales, Total Profit, YoY % Change, and Discount Impact
+
 Time intelligence functions
 
+
 Visualizations Used:
+
 KPI Cards
+
 Stacked Bar Charts
+
 Line Charts
+
 Donut Charts
+
 Column Charts
+
 Matrix/Table visual with conditional formatting
+
 
 Conditional Formatting:
 Used in KPI indicators and matrix visuals to highlight trends and segment performance
