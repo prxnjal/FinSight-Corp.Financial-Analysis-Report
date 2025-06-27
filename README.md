@@ -20,19 +20,23 @@ Key components of the dashboard include:
 This dashboard was created using the following Power BI Desktop tools and features:
 
 Power Query Editor for:
+
 Data Cleaning and Transformation
 Removing unnecessary culumns
 Formatting and renaming fields
 
 Data Modeling:
+
 Created a new table for Segment and Product classification
 Established relationships between fact and dimension tables
 
 DAX Measures:
+
 Custom measures like Total Sales, Total Profit, YoY % Change, and Discount Impact
 Time intelligence functions
 
 Visualizations Used:
+
 KPI Cards
 Stacked Bar Charts
 Line Charts
@@ -42,6 +46,7 @@ Matrix/Table visual with conditional formatting
 
 
 Conditional Formatting:
+
 Used in KPI indicators and matrix visuals to highlight trends and segment performance
 
 🧩 Steps to Create This Dashboard
