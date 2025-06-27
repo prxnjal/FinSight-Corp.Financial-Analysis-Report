@@ -49,6 +49,8 @@ Conditional Formatting:
 
 Used in KPI indicators and matrix visuals to highlight trends and segment performance
 
+
+
 🧩 Steps to Create This Dashboard
 Data Import
 Loaded the sample dataset from Power BI Desktop sample data.
@@ -117,4 +119,4 @@ Within Channel Partners: All sub-regions (Amarilla, Carretera, Montana, etc.) sh
 Within Enterprise: All sub-regions show negative profitability, especially VTT (-4.31%), needing detailed performance review.
 
 
-
+Preview of power bi report(https://github.com/prxnjal/FinSight-Corp.Financial-Analysis-Report/blob/main/FinSight%20Corp.Financial%20Analysis.png)
