@@ -5,14 +5,23 @@ This repository features an interactive financial analysis dashboard built using
 The goal of this project is to demonstrate my skills in data cleaning, transformation, data modeling, DAX (Data Analysis Expressions), visualization, and dashboard storytelling using Power BI.
 
 📊 Dashboard Highlights
+
 Key components of the dashboard include:
+
 ✅ Sales, Orders, Profits and Discounts YoY Comparison
+
 🌍 Orders and Profits by Country
+
 📦 Sales Amount by Product
+
 📆 Sales Trend by Month and Year
+
 💹 Profit% by Business Segment
+
 🎯 Discount Analysis by Band (High, Medium, Low)
+
 📈 Segment-wise and Region-wise Performance Drilldowns
+
 🎨 Conditional Formatting for Key Metrics
 
 🛠️ Tools and Features Used
