@@ -1,22 +1,22 @@
 # FinSight-Corp.Financial-Analysis-Report
 This repository features an interactive financial analysis dashboard built using Power BI, based on a sample dataset provided within the Power BI desktop application. The report simulates real-world business insights for a fictional company named FinSight Corp., which I retained as the brand name to give the dashboard a professional and contextual identity.
 
-🧠 Objective
+ Objective
 The goal of this project is to demonstrate my skills in data cleaning, transformation, data modeling, DAX (Data Analysis Expressions), visualization, and dashboard storytelling using Power BI.
 
-📊 Dashboard Highlights
+Dashboard Highlights
 Key components of the dashboard include:
-✅ Sales, Orders, Profits and Discounts YoY Comparison
-🌍 Orders and Profits by Country
-📦 Sales Amount by Product
-📆 Sales Trend by Month and Year
-💹 Profit% by Business Segment
-🎯 Discount Analysis by Band (High, Medium, Low)
-📈 Segment-wise and Region-wise Performance Drilldowns
-🎨 Conditional Formatting for Key Metrics
+1. Sales, Orders, Profits and Discounts YoY Comparison
+2. Orders and Profits by Country
+3. Sales Amount by Product
+4. Sales Trend by Month and Year
+5. Profit% by Business Segment
+6. Discount Analysis by Band (High, Medium, Low)
+7. Segment-wise and Region-wise Performance Drilldowns
+8. Conditional Formatting for Key Metrics
 
 
-🛠️ Tools and Features Used
+ Tools and Features Used
 This dashboard was created using the following Power BI Desktop tools and features:
 
 Power Query Editor for:
